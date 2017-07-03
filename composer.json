@@ -1,0 +1,13 @@
+{
+    "require": {
+        "php": ">=5.5.9",
+        "twig/twig": "^2.0",
+        "yalesov/yaml": "2.*",
+        "nezamy/route": "1.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "controllers": "/"
+        }
+    }
+}
